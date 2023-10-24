@@ -2,7 +2,7 @@
 # Hi there 👋, I am Shabbir Mollek
 ## Web Developer
 
-Experienced web developer proficient in HTML, CSS, JavaScript, and React, crafting dynamic, user-focused web solutions with creativity and precision.
+I am a skilled professional specializing in web design and web development, with a strong focus on Tailwinds. My expertise encompasses a wide range of essential technologies, including HTML, CSS, and JavaScript, which form the foundation of my creative process. With a keen eye for detail and a deep understanding of user experience, I harness the power of Elementor and plugins to craft visually stunning and highly functional websites.
 
 Skills: HTML / CSS/ JS / REACT/ TAILWIND / NODE.JS /WORDPRESS
 
