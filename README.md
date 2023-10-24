@@ -1,11 +1,10 @@
-(https://scontent.fdac110-1.fna.fbcdn.net/v/t31.18172-8/21552015_772958352912946_2606401475819231482_o.jpg?stp=dst-jpg_s960x960&_nc_cat=105&ccb=1-7&_nc_sid=300f58&_nc_eui2=AeEfTsmcDCMHNQfUo1T8NgxQWCtfeFcB7OBYK194VwHs4LXwODeO9wXyVwEMcO77HyICaMmceQdUw08-SGpij5px&_nc_ohc=8gpzEgL0b0sAX_x1lw3&_nc_ht=scontent.fdac110-1.fna&oh=00_AfB0y25IraHvBkN5xsZV8JYuYVXOMwwm9amv5sHx6ZEZfA&oe=655FA814)
+![Web Developer](https://scontent.fdac110-1.fna.fbcdn.net/v/t31.18172-8/21552015_772958352912946_2606401475819231482_o.jpg?stp=dst-jpg_s960x960&_nc_cat=105&ccb=1-7&_nc_sid=300f58&_nc_eui2=AeEfTsmcDCMHNQfUo1T8NgxQWCtfeFcB7OBYK194VwHs4LXwODeO9wXyVwEMcO77HyICaMmceQdUw08-SGpij5px&_nc_ohc=8gpzEgL0b0sAX_x1lw3&_nc_ht=scontent.fdac110-1.fna&oh=00_AfB0y25IraHvBkN5xsZV8JYuYVXOMwwm9amv5sHx6ZEZfA&oe=655FA814)
 # Hi there 👋, I am Shabbir Mollek
 ## Web Developer
-![Web Developer]
 
 Experienced web developer proficient in HTML, CSS, JavaScript, and React, crafting dynamic, user-focused web solutions with creativity and precision.
 
-Skills: HTML / CSS/ JS / REACT/ TAILWIND / NODE.JS / WORDPRESS
+Skills: HTML / CSS/ JS / REACT/ TAILWIND / NODE.JS /WORDPRESS
 
 
 - 🌱 I’m currently learning React 
